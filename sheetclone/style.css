@@ -21,6 +21,11 @@ body{
     display: flex;
     align-items: center;
 } */
+
+/* #fixed-header {
+    position: fixed;
+} */
+
 .logo{
     /* margin-top: 10px; */
     padding-top: 10px;
@@ -218,7 +223,7 @@ background: none;
 
 .profile-pic{
     height: 50px;
-    width: 40px;
+    width: 50px;
     border: 2px solid black;
     background: none;
     border-radius: 50%;
